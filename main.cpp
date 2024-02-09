@@ -1,1 +1,2 @@
-void Testing()
+#include Character.h
+int main() {}
