@@ -1,1 +1,1 @@
-int func();
+int main();
